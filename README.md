@@ -1,11 +1,30 @@
-# Stereo-Vision
-Stereo Vision using two methods Block Matching &amp; Dynamic programming.
-
-# 1 Block Matching
-To get the disparity value at each point in the left image, you will search over a range disparities, and compare the windows using two different metrics mentioned in class: Sum of Absolute Differences (SAD) and Sum of Squared Differences. Do this for windows of size w w where w = 1, 5 and 9. The disparity, d, is restricted to be in range DdD. For this assignment we will use D = 8. You should try at least 2 pairs of images and for each show for each window size and each metric disparity image.
 
 
-# 2 Dynamic programming
-# 2.1 Disparity computation
-Repeat the process explained above fore each row of the image and compute the disparity maps
-for image pairs.
+
+## Computer Vision Projects 
+	in this repo you will find my computer vision projects , I will split the projects into deep learning projects and non-deep learning projects
+	
+
+## Deep Learning Projects
+
+	 - Image Classification
+		 - Simple Project to classify image , we have implemented google net archetchre with two versions in pytorch , we aplied it to cifar dataset 
+	 - MRNet
+		 - Classification project On MRI Images , this is cosidered harder project because of the size of the data set , we trained Resnet Arch from Keras to detect the most common indecations for knee MRI Examination. 
+	 - 3d Object Detection
+		 - This was final project of computer vision course,It was required to get a paper code and make it run solve problems you faced , we have tried a lot of paper until we find one runned smoothly (one week work)
+		 -  We have Summerized two papers in the pdf . 
+
+## non-Deep Learning
+
+	 - Image Segmentation
+		 - Implmentation of K-means and K-ways normalized Cut(Spectrul clustring), applying them to an image will get you the image segmentaiton , not used a lot noawaday after availablty of deep learning model.
+		 - dataset:
+	 - Face Recognition 
+		 - EigenFaces Algorithm ,Apply LDA,PCA to reduce dimensions then apply k-nn method to get the faces 
+		 - dataset:
+	 - Image Cartoonifier
+		 - from normal image to cartoon image by applying simple filters .
+	 - Image Stitcher :
+		 - How to stitch two images ,getting the 
+	 - Stereo Vision 

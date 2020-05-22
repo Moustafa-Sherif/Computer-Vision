@@ -1,7 +1,7 @@
 
 
 
-**Computer Vision Projects** 
+## Computer Vision Projects 
 	in this repo you will find my computer vision projects , I will split the projects into deep learning projects and non-deep learning projects
 	
 

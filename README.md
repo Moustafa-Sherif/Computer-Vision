@@ -46,10 +46,10 @@
 
 ## generate images
 	starting from random image
-![](DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/start.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/start.jpg)
 	reaching digits and faces
 
-![](DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
 
 ## Image Segmentation
 ![](Image-Segmentation/images/original%20and%20result.jpg)

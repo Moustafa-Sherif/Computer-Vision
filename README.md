@@ -46,7 +46,9 @@ the outline of the model we want to implment
 
 ## generate images
 starting from random image
+
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/start.jpg)
+
 reaching digits and faces after training 
 
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
@@ -57,6 +59,7 @@ reaching digits and faces after training
 ![](Image-Cartoonifying/images/Before%20and%20After.jpg)
 ## Image Stitcher 
 having input of two image 
+
 ![](Image-Mosaics-Stitcher/images/first%20image.jpg)
 ![](Image-Mosaics-Stitcher/images/second%20image.jpg)
 
@@ -64,7 +67,9 @@ result after getting the keypoint and stitching them
 ![](Image-Mosaics-Stitcher/images/panorama.jpg)
 ## Stereo Vision 
 the input is two image of stereo system  
+
 ![](Stereo-Vision/images/stereo_vision.jpg)
+
 disparity map generated from them 
 ![](Stereo-Vision/images/Disparity.jpg)
 

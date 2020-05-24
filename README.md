@@ -39,9 +39,11 @@
 ## Image Cartoonifier
 ![](Image-Cartoonifying/images/Before%20and%20After.jpg)
 ## Image Stitcher 
+	inputs 
 ![](Image-Mosaics-Stitcher/images/first%20image.jpg)
 ![](Image-Mosaics-Stitcher/images/second%20image.jpg)
-![](Image-Mosaics-Stitcher/images/Image-Mosaics-Stitcher/images/panorama.jpg)
+	result
+![](Image-Mosaics-Stitcher/images/panorama.jpg)
 
 
 ## non-Deep Learning

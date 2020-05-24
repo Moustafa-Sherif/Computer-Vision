@@ -29,8 +29,8 @@
 
 	
 
-# Results Sample
-## Dog Breed Classifie
+# Sample of the results
+## Dog Breed Classifier
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg)
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_golden.jpg)
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected%20human.jpg)

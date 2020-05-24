@@ -9,10 +9,15 @@
  - **You will find more information and details about each project ,In the readme  of it's directory**
 
  - **Deep Learning Projects:**
-	 - 	 Image Classification On Cifar:
-	 - 	 MRNet training  :detect most common indecations of knee MRI Examination.
-	 - 	 3d object detection :detect 3d cars using stereo images 
- - **non-Deep Learning Projects:**
+	- 	Image Classification On Cifar:
+	-	[Dog Breed Classifier](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN)
+	- 	MRNet training  :detect most common indecations of knee MRI Examination.
+	- 	3d object detection :detect 3d cars using stereo images 
+	-	[Generate faces and Digits using GANS](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/face_generation_GANs)
+
+
+
+- **non-Deep Learning Projects:**
 	 - Image Segmentation: using k-means and spectrual clustring to segment each image
 	 - Face Recognition :eigenfaces algorithm.
 	 - Image Cartoonifier:using simple filter two create cartoon from normal image.

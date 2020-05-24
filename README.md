@@ -59,6 +59,7 @@ reaching digits and faces after training
 having input of two image 
 ![](Image-Mosaics-Stitcher/images/first%20image.jpg)
 ![](Image-Mosaics-Stitcher/images/second%20image.jpg)
+
 result after getting the keypoint and stitching them 
 ![](Image-Mosaics-Stitcher/images/panorama.jpg)
 ## Stereo Vision 

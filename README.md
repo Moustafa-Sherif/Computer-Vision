@@ -31,11 +31,10 @@
 
 # Results Sample
 ## Dog Breed Classifie
-Projects/dog_bread_classification_CNN/dog-project/images/detected human.jpg
-![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg)
-![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_golden.jpg)
-![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected%20human.jpg)
-![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_other.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_golden.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected%20human.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_other.jpg)
 ## MRNet
 	the outline of the model we want to implment 
 	  
@@ -46,10 +45,11 @@ Projects/dog_bread_classification_CNN/dog-project/images/detected human.jpg
 ![](3d%20object%20Detection/results/r2.jpg)
 
 ## generate images
-<img src="https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/face_generation_GANs/face_generation/images/start.jpg">
+	starting from random image
+![](DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/start.jpg)
+	reaching digits and faces
 
-
-![](DL-Udacity-Nanodegree/tree/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
+![](DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
 
 ## Image Segmentation
 ![](Image-Segmentation/images/original%20and%20result.jpg)

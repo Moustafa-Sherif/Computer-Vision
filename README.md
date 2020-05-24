@@ -31,12 +31,10 @@
 
 # Results Sample
 ## Dog Breed Classifie
-![](Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg)
-![](Projects/dog_bread_classification_CNN/dog-project/images/detected_golden.jpg)
-![](Projects/dog_bread_classification_CNN/dog-project/images/detected human.jpg)
-![](Projects/dog_bread_classification_CNN/dog-project/images/detected_other.jpg)
-
-Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_golden.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected human.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_other.jpg)
 ## MRNet
 	the outline of the model we want to implment 
 	  
@@ -47,9 +45,9 @@ Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg
 ![](3d%20object%20Detection/results/r2.jpg)
 
 ## generate images
-![](Projects/face_generation_GANs/face_generation/images/start.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/face_generation_GANs/face_generation/images/start.jpg)
 
-![](Projects/face_generation_GANs/face_generation/images/generated.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
 
 ## Image Segmentation
 ![](Image-Segmentation/images/original%20and%20result.jpg)

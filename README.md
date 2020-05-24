@@ -36,7 +36,7 @@
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected%20human.jpg)
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_other.jpg)
 ## MRNet
-	the outline of the model we want to implment 
+the outline of the model we want to implment 
 	  
 ![](MRNet-Classification/outline.jpg)
 
@@ -45,9 +45,9 @@
 ![](3d%20object%20Detection/results/r2.jpg)
 
 ## generate images
-	starting from random image
+starting from random image
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/start.jpg)
-	reaching digits and faces
+reaching digits and faces after training 
 
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/blob/master/Projects/face_generation_GANs/face_generation/images/generated.jpg)
 
@@ -56,15 +56,15 @@
 ## Image Cartoonifier
 ![](Image-Cartoonifying/images/Before%20and%20After.jpg)
 ## Image Stitcher 
-	inputs 
+having input of two image 
 ![](Image-Mosaics-Stitcher/images/first%20image.jpg)
 ![](Image-Mosaics-Stitcher/images/second%20image.jpg)
-	result
+result after getting the keypoint and stitching them 
 ![](Image-Mosaics-Stitcher/images/panorama.jpg)
 ## Stereo Vision 
-	inputs 
+the input is two image of stereo system  
 ![](Stereo-Vision/images/stereo_vision.jpg)
-	result
+disparity map generated from them 
 ![](Stereo-Vision/images/Disparity.jpg)
 
 

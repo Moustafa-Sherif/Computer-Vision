@@ -33,7 +33,7 @@
 ## Dog Breed Classifie
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_bulldog.jpg)
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_golden.jpg)
-![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected human.jpg)
+![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected%20human.jpg)
 ![](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN/dog-project/images/detected_other.jpg)
 ## MRNet
 	the outline of the model we want to implment 

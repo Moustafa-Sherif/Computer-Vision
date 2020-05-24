@@ -61,21 +61,10 @@
 ![](Image-Mosaics-Stitcher/images/second%20image.jpg)
 	result
 ![](Image-Mosaics-Stitcher/images/panorama.jpg)
-
-
-## non-Deep Learning
-
-	 - Image Segmentation
-		 - Implmentation of K-means and K-ways normalized Cut(Spectrul clustring), applying them to an image will get you the image segmentaiton , not used a lot noawaday after availablty of deep learning model.
-		 - dataset:
-	 - Face Recognition 
-		 - EigenFaces Algorithm ,Apply LDA,PCA to reduce dimensions then apply k-nn method to get the faces 
-		 - dataset:
-	 - Image Cartoonifier
-		 - from normal image to cartoon image by applying simple filters .
-	 - Image Stitcher :
-		 - How to stitch two images ,getting the 
-	 - Stereo Vision :
-		 - Getting the depth from two images by getting the 
+## Stereo Vision 
+	inputs 
+![](Stereo-Vision/images/stereo_vision.jpg)
+	result
+![](Stereo-Vision/images/Disparity.jpg)
 
 

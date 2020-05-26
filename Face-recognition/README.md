@@ -4,7 +4,7 @@
 # Face Recognition 
 - this is the implmentation of eigenfaces algorithm 
 - EigenFaces Algorithm is simply using LDA or PCA for reduce dimension then applying a simple classifier
-- We hace used ORL Faces Dataset 
+- We hace used ![ORL Faces Dataset](http://nimfa.biolab.si/nimfa.examples.orl_images.html)
 - ORL Datasaet has 10 images paer 40 subjects. Every image is a grayscale image of size 92x112.
 - there too much graphs in the notebook because It was our first time exploring the field.
 - results ![](results/k_values.jpg)

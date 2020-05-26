@@ -5,7 +5,9 @@
  - Stereo Vision System  has two cameras and the tranformation matrix from one camera to another 
  - We are solving a base-line stereo case so 
  - base-line stereo case is the case where the images taken with a forward facing camera and the translation between cameras is along the horizontal axis .
- -baseline stereo vision ![](images/stereo_vision.jpg)
+  - baseline stereo vision ![](images/stereo_vision.jpg)
+  
+
  - three steps needs to be obtained to get the depth
 	 - Block Matching 
 	 - Calclating the desparity for a row 

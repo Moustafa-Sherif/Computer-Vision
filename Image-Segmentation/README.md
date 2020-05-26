@@ -10,10 +10,10 @@
  -  spectrul clustring is a very good algorithm with a completly different idea of clustring 
  - spectrul clustring maps data into graph then clustring it using normalized cut algorithm , gets great results but too much computation time.
  - results![](images/original%20and%20result.jpg)
-- refrences
+- Refrences
 	-  data minning and analysis book(free)
 	- [web site](http://www.dataminingbook.info/pmwiki.php)
-- credits
+- Credits
 	- [Zeyad Ezzat](https://github.com/zeyad3ezzat)
 	- [Mostafa Tohami](https://github.com/tohamybasha)
 

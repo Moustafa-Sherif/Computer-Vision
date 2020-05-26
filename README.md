@@ -7,7 +7,7 @@
 
  - In this repo you will find my computer vision projects
  - **You will find more information and details about each project ,In the readme  of it's directory**(still updating, refactoring )
-
+ - I've mentioned my teammates in each project 
  - **Deep Learning Projects:**
 	- 	Image Classification On Cifar:
 	-	[Dog Breed Classifier](https://github.com/zeyad3ezzat/DL-Udacity-Nanodegree/tree/master/Projects/dog_bread_classification_CNN)

@@ -9,5 +9,4 @@
  - 3 binary problem 3 indecation = 9 deep learning  models 
  - We have used transfer learning to train ResNet 
  - There is no use to of RNN to connect the frames , just make a prediction of each image , label = majority vote
- - Refrence :
-  -https://stanfordmlgroup.github.io/competitions/mrnet/
+ - Refrence :[link](https://stanfordmlgroup.github.io/competitions/mrnet/)

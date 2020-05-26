@@ -18,8 +18,8 @@
 	-  data minning and analysis book(free)
 	- [web site](http://www.dataminingbook.info/pmwiki.php)
 - credits
-	-[Zeyad Ezzat](https://github.com/zeyad3ezzat)
-	-[mostafa tohami](https://github.com/tohamybasha)
+	- [Zeyad Ezzat](https://github.com/zeyad3ezzat)
+	- [Mostafa Tohami](https://github.com/tohamybasha)
 
 
 

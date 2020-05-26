@@ -14,5 +14,15 @@
  - Inception is the basic building model of google net architecture![]((images/googlenet.png)
  - training graphs for veriosn 1 ![](images/v1.jpg)
  - training graphs for veriosn 2![](images/v2.jpg)
- - refrence
- 
+ - refrences 
+	- [Going Deeper with convolutions paper](https://arxiv.org/pdf/1409.4842.pdf)
+	- [Rethinking inception architecture for computer vision](https://arxiv.org/pdf/1512.00567.pdf)
+- credits
+	- [Zeyad Ezzat](https://github.com/zeyad3ezzat)
+	- [Mostafa Tohami](https://github.com/tohamybasha)
+
+
+
+
+
+	

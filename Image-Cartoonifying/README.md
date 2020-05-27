@@ -6,6 +6,7 @@
  - We will detect edges and smooth the flat areas, then draw enhanced edges back on top to produce a cartoon or comic book effect.
  - this project is easily understable from the notebook
  - Steps to get the output
+	 
 	 1.transfer image to grey scale
 	 
 	 2.apply median filter to the previous output

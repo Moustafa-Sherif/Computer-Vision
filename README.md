@@ -6,7 +6,7 @@
 	
 
  - In this repo you will find my computer vision projects
- - **You will find more information and details about each project ,In the readme  of it's directory**(still updating, refactoring )
+ - **You will find more information and details about each project ,In the readme  of it's directory**
  - I've mentioned my teammates in each project 
  - **Deep Learning Projects:**
 	- 	Image Classification On Cifar:

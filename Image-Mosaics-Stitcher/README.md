@@ -6,9 +6,8 @@
  - We have implmented this on two steps 
 	 - getting common points 
 		 - manually I Choosed them , you can notice the blue circles at the two images![](images/first%20image.jpg) ![](images/second%20image.jpg)
-		 - using SIFT Algorithm (we have used Open cv method for that)
-	 - getting hemography matrix , the output in the image
-	 - ![](images/Keypoint detection.jpg)
+		 - using SIFT Algorithm (we have used Open cv method for that)![](images/Keypoint%20detection.jpg)
+	 - getting hemography matrix 
 		 - Hemography Matrix is the matrix mapping from one image plan to  the other image
 		 - you can get this by using least square solution(numpy imlpmention)
 		 - method called numpy.linalg.lstsq()

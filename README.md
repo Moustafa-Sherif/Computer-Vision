@@ -17,7 +17,7 @@
 
 
 
-- **non-Deep Learning Projects:**
+- **Classical Computer Vision Projects:**
 	 - Image Segmentation: using k-means and spectrual clustring to segment each image
 	 - Face Recognition :eigenfaces algorithm.
 	 - Image Cartoonifier:using simple filter two create cartoon from normal image.

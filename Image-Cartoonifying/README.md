@@ -13,7 +13,8 @@
 	 5.apply bilateral filter to previous output
 	 6.apply bilateral filter to the original input
 	 7.apply bitwise and  between the output from 5 and 6
-	 8.the result image from 7 will be the cartoon image![](images/Before%20and%20After.jpg)
+	 8.the result image from 7 will be the cartoon image
+	 ![](images/Before%20and%20After.jpg)
 	 
 
 

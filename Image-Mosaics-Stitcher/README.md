@@ -5,7 +5,7 @@
  - If you have two images with common points you can get these points and merge both in one image 
  - We have implmented this on two steps 
 	 - getting common points 
-		 - manually I Choosed them , you can notice the blue circles at the two images![](images/first%20image.jpg) ![](images/second%20image.jpg)
+		 - Chooseing them manually , you can notice the blue circles at the two images![](images/first%20image.jpg) ![](images/second%20image.jpg)
 		 - using SIFT Algorithm (we have used Open cv method for that)![](images/Keypoint%20detection.jpg)
 		 - size in the image means how much the algorithm sure It's a matching point
 	 - getting hemography matrix 

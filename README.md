@@ -73,4 +73,8 @@ the input is two image of stereo system
 disparity map generated from them 
 ![](Stereo-Vision/images/Disparity.jpg)
 
-
+##
+Team
+	- [Zeyad Ezzat](https://github.com/zeyad3ezzat)
+	- [Mostafa Tohami](https://github.com/tohamybasha)
+	- [Moustafa Sherif](https://github.com/Moustafa-Sherif)
